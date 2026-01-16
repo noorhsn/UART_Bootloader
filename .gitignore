@@ -1,0 +1,8 @@
+/tmp/uart_bootloader_sim_flash.bin
+*.bin
+*.elf
+.vscode/.history
+.vscode/.cache
+*.o
+*.d
+.vscode/c_cpp_properties.json
